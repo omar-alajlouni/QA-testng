@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T13:10:21 EET" name="Default suite" finished-at="2022-11-30T13:10:37 EET" duration-ms="15321">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T13:10:21 EET" name="Default test" finished-at="2022-11-30T13:10:37 EET" duration-ms="15321">
+      <class name="testng_first.OpenSooq">
+        <test-method is-config="true" signature="enterWebsite()[pri:0, instance:testng_first.OpenSooq@729d991e]" started-at="2022-11-30T13:10:21 EET" name="enterWebsite" finished-at="2022-11-30T13:10:29 EET" duration-ms="8209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterWebsite -->
+        <test-method signature="check_result_mitsobishi()[pri:0, instance:testng_first.OpenSooq@729d991e]" started-at="2022-11-30T13:10:30 EET" name="check_result_mitsobishi" finished-at="2022-11-30T13:10:37 EET" duration-ms="7092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_result_mitsobishi -->
+      </class> <!-- testng_first.OpenSooq -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
